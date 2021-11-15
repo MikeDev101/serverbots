@@ -1,1 +1,1 @@
-E:SERVER_OFFLINE
+wss://41ee-2600-2b00-a623-5700-a010-830c-b0ba-9b1.ngrok.io
