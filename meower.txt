@@ -1,1 +1,1 @@
-E:SERVER_OFFLINE
+wss://c3fa-192-24-232-115.ngrok.io
