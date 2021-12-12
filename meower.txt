@@ -1,1 +1,1 @@
-wss://c3fa-192-24-232-115.ngrok.io
+wss://d0a1-192-24-232-115.ngrok.io
